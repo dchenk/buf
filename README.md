@@ -18,7 +18,7 @@ Package buf provides a minimalistic buffer utility especially suited for small a
   * [func (b *Buf) WriteString(str string)](#Buf.WriteString)
 
 #### <a name="pkg-files">Package files</a>
-[buf.go](/src/github.com/dchenk/buf/buf.go) 
+[buf.go](https://github.com/dchenk/buf/blob/master/buf.go)
 
 ## <a name="Buf">type</a> [Buf](/src/target/buf.go?s=420:449#L7)
 ``` go
